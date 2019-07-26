@@ -1,1 +1,3 @@
 namelogis: dev
+server:
+  port: 8799
